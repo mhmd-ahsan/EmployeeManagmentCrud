@@ -38,7 +38,7 @@ It provides essential CRUD operations, follows clean architecture principles, an
 
 ## 🏗 Project Structure
 
-EmployeeManagementCRUD/ ├── Controllers/        # API endpoints ├── Data/               # DB context and configuration ├── Dtos/               # Input/output DTOs ├── Migrations/         # EF Core migrations ├── Models/             # Entity models ├── Program.cs          # Application entry point ├── appsettings.json    # Configuration file ├── User/ 
+EmployeeManagementCRUD/ ├── Controllers/        # API endpoints ├── Data/               # DB context and configuration ├── Dtos/               # Input/output DTOs ├── Migrations/         # EF Core migrations ├── Models/             # Entity models ├── Program.cs          # Application entry point ├── appsettings.json    # Configuration file ├── ApplicationUser/ 
 
 ---
 
@@ -49,7 +49,7 @@ EmployeeManagementCRUD/ ├── Controllers/        # API endpoints ├── 
 - **SQL Server**
 - **Swagger / Swashbuckle**
 - **C#**
-- **Visual Studio / VS Code**
+- **Visual Studio**
 
 ---
 
