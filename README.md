@@ -10,14 +10,11 @@ _**Empower Your Team, Streamline Employee Management Effortlessly**_
 
 ## 📚 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [API Endpoints](#api-endpoints)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Getting Started](#-getting-started)
 
 ---
 
