@@ -1,4 +1,4 @@
-# 👨‍💼  EmployeeManagementCRUD
+# EmployeeManagementCRUD
 
 _**Empower Your Team, Streamline Employee Management Effortlessly**_
 
@@ -10,65 +10,60 @@ _**Empower Your Team, Streamline Employee Management Effortlessly**_
 
 ## 📚 Table of Contents
 
-- [Overview](#-overview)
-- [Features](#-features)
-- [Project Structure](#-project-structure)
+- [Overview](#overview)
+- [Features](#features)
+- [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#-getting-started)
-- [API Endpoints](#-api-endpoints)
+- [Getting Started](#getting-started)
+- [API Endpoints](#api-endpoints)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ---
 
 ## 📖 Overview
 
-**EmployeeManagementCrud** is a lightweight ASP.NET Core Web API project designed to simplify employee data management. It provides essential CRUD operations, strong architecture, and helpful tools for smooth development and testing.
+**EmployeeManagementCRUD** is a lightweight ASP.NET Core Web API project designed to simplify employee data management.  
+It provides essential CRUD operations, follows clean architecture principles, and includes tools for smooth development and testing.
 
 ---
 
 ## ✨ Features
 
 - ✅ Robust Project Structure – Organized by features (Controllers, Models, DTOs)
-- 🔒 Secure Authentication (Identity ready structure)
-- 💾 Entity Framework Core – Simplified DB operations
-- 📘 Swagger API Docs – Auto-generated and interactive
-- 📨 DTO Support – Clean data validation
-- 🌦️ Weather Forecast Integration – For demo/testing
+- 🔒 Secure Authentication – Identity-ready structure
+- 💾 Entity Framework Core – Simplified database operations
+- 📘 Swagger UI – Auto-generated API documentation
+- 📨 DTO Support – Clean data flow and validation
+- 🌦️ Weather Forecast Integration – For demo/testing purposes
 
 ---
 
 ## 🏗 Project Structure
 
-EmployeeManagment/
-├── Controllers/ # API endpoints
-├── Data/ # DB context and connection config
-├── Dtos/ # Input/output DTOs
-├── Migrations/ # EF migrations
-├── Models/ # Entity models
-├── Program.cs # Entry point
-├── appsettings.json # Configuration
-├── User/ # Optional user logic
+EmployeeManagementCRUD/ ├── Controllers/        # API endpoints ├── Data/               # DB context and configuration ├── Dtos/               # Input/output DTOs ├── Migrations/         # EF Core migrations ├── Models/             # Entity models ├── Program.cs          # Application entry point ├── appsettings.json    # Configuration file ├── User/ 
 
 ---
-## 🛠️ Technologies Used
 
+## Technologies Used
 
-- ASP.NET Core 8.0
-- Entity Framework Core
-- SQL Server
-- Swagger for API documentation
+- **ASP.NET Core 8.0**
+- **Entity Framework Core**
+- **SQL Server**
+- **Swagger / Swashbuckle**
+- **C#**
+- **Visual Studio / VS Code**
+
 ---
+
 ## 🚀 Getting Started
 
-Follow these steps to set up and run the project locally using Visual Studio and .NET 8.
+### Prerequisites:
+- [.NET 8.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+- SQL Server (local or cloud)
+- Visual Studio or Visual Studio Code
 
-### ✅ Prerequisites
-
-- [Visual Studio 2022 or later](https://visualstudio.microsoft.com/) with **.NET 8 SDK** installed
-- SQL Server (LocalDB or full version)
-
-### 🛠 Installation Steps
-
-1. **Clone the Repository**
-
-```bash
-git clone https://github.com/mhmd-ahsan/EmployeeManagmentCrud.git
+### Setup Instructions:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/mhmd-ahsan/EmployeeManagmentCrud.git
