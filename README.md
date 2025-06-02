@@ -13,6 +13,7 @@ _**Empower Your Team, Streamline Employee Management Effortlessly**_
 - [Overview](#-overview)
 - [Features](#-features)
 - [Project Structure](#-project-structure)
+- [Technologies Used](#-technologies-used)
 - [Getting Started](#-getting-started)
 - [API Endpoints](#-api-endpoints)
 
@@ -48,7 +49,12 @@ EmployeeManagment/
 ├── User/ # Optional user logic
 
 ---
-
+### 🛠️ Technologies Used
+- ASP.NET Core 8.0
+- Entity Framework Core
+- SQL Server
+- Swagger for API documentation
+---
 ## 🚀 Getting Started
 
 Follow these steps to set up and run the project locally using Visual Studio and .NET 8.
