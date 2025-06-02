@@ -49,7 +49,9 @@ EmployeeManagment/
 ├── User/ # Optional user logic
 
 ---
-### 🛠️ Technologies Used
+## 🛠️ Technologies Used
+
+
 - ASP.NET Core 8.0
 - Entity Framework Core
 - SQL Server
