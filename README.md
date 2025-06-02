@@ -13,7 +13,7 @@ _**Empower Your Team, Streamline Employee Management Effortlessly**_
 - [Overview](#-overview)
 - [Features](#-features)
 - [Project Structure](#-project-structure)
-- [Technologies Used](#-technologies-used)
+- [Technologies Used](#technologies-used)
 - [Getting Started](#-getting-started)
 - [API Endpoints](#-api-endpoints)
 
