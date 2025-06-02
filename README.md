@@ -1,4 +1,4 @@
-# 👨‍💼 EMPLOYEEMANAGMENTCRUD
+# 👨‍💼  EmployeeManagementCRUD
 
 _**Empower Your Team, Streamline Employee Management Effortlessly**_
 
