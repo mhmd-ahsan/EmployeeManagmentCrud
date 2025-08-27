@@ -10,6 +10,8 @@ namespace EmployeeManagment.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+
+    // Inthis Controller everything is working perfectly fine.
     public class AuthController : ControllerBase
     {
         private readonly AppDbContext _context;
